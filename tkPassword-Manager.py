@@ -1,6 +1,5 @@
 from tkinter import *
 from tkinter import messagebox
-import tkinter.messagebox
 import os
 import subprocess
 import webbrowser
