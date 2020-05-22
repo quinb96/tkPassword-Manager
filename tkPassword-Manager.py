@@ -22,7 +22,7 @@ class popupWindow(object):
 		self.l.pack()
 		self.e = Entry(top, width=50)
 		self.e.pack()
-		self.b = Button(top, text="Submit", command=self.clear, font=("Impact", 14))
+		self.b = Button(top, text="Submit", command=self.clear, font=("Meera", 14, "bold"))
 		self.b.pack()
 		self.e.bind("<Return>", self.clear)
 
