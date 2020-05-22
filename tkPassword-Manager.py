@@ -29,7 +29,7 @@ class popupWindow(object):
 
 	def clear(self, *args):
 		self.value = self.e.get()
-		access = "volcom14"
+		access = ""
 
 		if self.value == access:
 			messagebox.showinfo("Password Storage", "Correct password. You're logged in.")
