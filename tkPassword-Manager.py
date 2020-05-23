@@ -28,6 +28,7 @@ class popupWindow(object):
 
 	def clear(self, *args):
 		self.value = self.e.get()
+		#Type in a password of your choice between the quotes. When you start the script, it will ask you for the password. Encrypt this script in order to hide the password.
 		access = ""
 
 		if self.value == access:
