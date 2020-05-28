@@ -1,2 +1,2 @@
 # tkPassword-Manager
-A password made using the tkinter module in python3.
+A password manager made using the tkinter module in python3.
